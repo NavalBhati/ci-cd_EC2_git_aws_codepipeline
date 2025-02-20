@@ -25,4 +25,4 @@ sudo pip install awscli
 
 
 Open all ports for a while - #This is for testing only not recommend in production server
-
+![Alt Text](output.png)
